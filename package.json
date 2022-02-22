@@ -1,0 +1,20 @@
+{
+  "name": "autotest_webapp_translate_uet",
+  "version": "1.0.0",
+  "description": "test web app translate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./node_modules/mocha/bin/mocha --timeout 100000"
+  },
+  "author": "quan",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mocha": "^9.2.0",
+    "selenium-webdriver": "^4.1.1"
+  },
+  "devDependencies": {
+    "chromedriver": "^98.0.1"
+  }
+}

@@ -1,0 +1,13 @@
+say hello
+good morning
+good night
+good afternoon
+say hi
+Computer
+Memory
+Keyboard
+Screen
+Data
+Technical
+Virtual
+Protocol
