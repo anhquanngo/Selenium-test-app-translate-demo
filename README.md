@@ -1,7 +1,5 @@
 # Selenium-test-app-translate-demo
 
-1. Install package \n
-npm install
+1. Install package: npm install
 
-2. Run test \n
-npm test
+2. Run test: npm test
